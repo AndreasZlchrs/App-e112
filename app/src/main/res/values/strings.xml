@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">e112</string>
+    <string-array name="document_types_array">
+        <item>Police ID</item>
+        <item>Passport</item>
+        <item>Driver's License</item>
+    </string-array>
+</resources>
